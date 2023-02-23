@@ -16,20 +16,20 @@ import Foundation
 func printLongestSubstringIn(_ givenString: String) -> String {
      
     var currentString = ""
-    var pastString = ""
+    var longestString = ""
 
     for currentChar in givenString {
         var currentSubString = "\(currentChar)"
         if currentString.localizedStandardContains(currentSubString) {
-            if currentString.count > pastString.count {
-                pastString = currentString
+            if currentString.count > longestString.count {
+                longestString = currentString
             }
             currentString = ""
         }
         currentString.append(currentSubString)
     }
     
-    return pastString
+    return longestString
 }
 
 print(printLongestSubstringIn("abcyxyzabac"))
