@@ -1,6 +1,6 @@
 import Foundation
 
-/* Find the longest substring with unique characters(without any repeatation) in a `String`
+/* Find the longest unique substring in a `String`
 
  For example:
  1. "abcyxyzabac" should give you "abcyx"
