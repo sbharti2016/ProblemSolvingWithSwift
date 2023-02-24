@@ -3,5 +3,6 @@
     <pages>
         <page name='TwoSumProblem'/>
         <page name='LongestUniqueSubstring'/>
+        <page name='LongestPalindromeString'/>
     </pages>
 </playground>
