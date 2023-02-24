@@ -4,5 +4,6 @@
         <page name='TwoSumProblem'/>
         <page name='LongestUniqueSubstring'/>
         <page name='LongestPalindromeString'/>
+        <page name='ContainerWithMostWater'/>
     </pages>
 </playground>
