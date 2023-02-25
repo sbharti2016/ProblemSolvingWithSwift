@@ -18,16 +18,11 @@ func findMaxArea(list: [Int]) -> Int {
     var maxArea = 0
     
     while left < right {
-        let currentArea = (right - left) * min(list[left], list[right])
-        
+        maxArea = max(maxArea, (right - left) * min(list[left], list[right]))
         if list[left] > list[right] {
             right -= 1
         } else {
             left += 1
-        }
-        
-        if maxArea < currentArea {
-            maxArea = currentArea
         }
     }
     return maxArea
