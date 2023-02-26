@@ -16,5 +16,3 @@
     ⚪️ Last position data
     ⚪️ Reverse Data
 
-   
-
