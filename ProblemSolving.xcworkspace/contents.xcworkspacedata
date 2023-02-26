@@ -2,7 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:QuickSortPackage">
+      location = "group:LocalPackages/LinkedList">
+   </FileRef>
+   <FileRef
+      location = "group:LocalPackages/QuickSort">
    </FileRef>
    <FileRef
       location = "group:/Users/sanjeev.bharti/ProblemSolvingWithSwift/FAANG.playground">

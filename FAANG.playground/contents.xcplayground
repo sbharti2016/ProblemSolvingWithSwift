@@ -6,5 +6,6 @@
         <page name='LongestPalindromeString'/>
         <page name='ContainerWithMostWater'/>
         <page name='ThreeSumProblem'/>
+        <page name='DeleteNodeFromLinkedList'/>
     </pages>
 </playground>
