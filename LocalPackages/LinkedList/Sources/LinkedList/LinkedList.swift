@@ -2,17 +2,16 @@
  One way linked list
 */
 
-
 public class Node {
-    var data: Int
-    var next: Node?
+    public var data: Int
+    public var next: Node?
     
-    init(data: Int) {
+    public init(data: Int) {
         self.data = data
     }
 }
 
-public protocol LinkedListProtocols {
+protocol LinkedListProtocols {
     func insert(data: Int)
     func nodes() -> [Int]
     func Search(_ data: Int) -> Bool
@@ -25,9 +24,13 @@ public protocol LinkedListProtocols {
     func reverse() -> [Int]
 }
 
-public class LinkedList: LinkedListProtocols {
+open class LinkedList: LinkedListProtocols {
     
     private var root: Node?
+    
+    public init(root: Node? = nil) {
+        self.root = root
+    }
     
     public func insert(data: Int) {
         var rootCopy = root
@@ -161,5 +164,23 @@ extension LinkedList {
         }
         return root
     }
+}
+
+//MARK: Stack
+
+extension LinkedList {
     
+    public func push(data: Int) {
+        insert(data: data)
+    }
+    
+    public func pop() -> Node? {
+        guard let poppedElement = last() else {return nil}
+        _ = delete(data: poppedElement.data)
+        return poppedElement
+    }
+    
+    public var isEmpty: Bool {
+        return nodes().count == 0
+    }
 }
