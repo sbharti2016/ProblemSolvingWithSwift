@@ -15,4 +15,4 @@
     ⚪️ First position data
     ⚪️ Last position data
     ⚪️ Reverse Data
-
+7. Balanced Parentheses Problem
