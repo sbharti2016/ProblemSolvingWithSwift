@@ -7,5 +7,7 @@
         <page name='ContainerWithMostWater'/>
         <page name='ThreeSumProblem'/>
         <page name='DeleteNodeFromLinkedList'/>
+        <page name='BalancedParentheses'/>
+        <page name='MergeTwoSortedLists'/>
     </pages>
 </playground>
