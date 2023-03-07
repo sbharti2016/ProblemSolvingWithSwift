@@ -9,5 +9,7 @@
         <page name='DeleteNodeFromLinkedList'/>
         <page name='BalancedParentheses'/>
         <page name='MergeTwoSortedLists'/>
+        <page name='MergeKSortedLists'/>
+        <page name='RemoveDuplicatesFromArray'/>
     </pages>
 </playground>
