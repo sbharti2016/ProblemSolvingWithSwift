@@ -2,13 +2,16 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:LocalPackages/SortingPackages/MergeSort">
+      location = "group:Packages/LinkedList">
    </FileRef>
    <FileRef
-      location = "group:LocalPackages/SortingPackages/QuickSort">
+      location = "group:Packages/MergeSort">
    </FileRef>
    <FileRef
-      location = "group:LocalPackages/LinkedList">
+      location = "group:Packages/QuickSort">
+   </FileRef>
+   <FileRef
+      location = "group:Packages/Stack">
    </FileRef>
    <FileRef
       location = "group:/Users/sanjeev.bharti/ProblemSolvingWithSwift/FAANG.playground">

@@ -13,6 +13,7 @@ public class Node {
 
 protocol LinkedListProtocols {
     func insert(data: Int)
+    func insert(node: Node)
     func nodes() -> [Int]
     func Search(_ data: Int) -> Bool
     func insert(data: Int, beforeData: Int)
@@ -37,6 +38,11 @@ open class LinkedList: LinkedListProtocols {
         root = insert(data: data, root: &rootCopy)
     }
     
+    public func insert(node: Node) {
+        var rootCopy = root
+        root = insert(node: node, root: &rootCopy)
+    }
+
     public func Search(_ data: Int) -> Bool {
         var found = false
         if root == nil {
@@ -161,6 +167,15 @@ extension LinkedList {
             root = Node(data: data)
         } else {
             root?.next = insert(data: data, root: &root!.next)
+        }
+        return root
+    }
+    
+    private func insert(node: Node, root: inout Node?) -> Node? {
+        if root == nil {
+            root = node
+        } else {
+            root?.next = insert(node: node, root: &root!.next)
         }
         return root
     }
