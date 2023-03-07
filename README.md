@@ -16,6 +16,6 @@
     ⚪️ Last position data
     ⚪️ Reverse Data
 7. Balanced Parentheses Problem
-8. Merge two sorted lists 
+8. Merge two sorted lists | Merge two sorted linked lists
 9. Merge k sorted lists 
 
