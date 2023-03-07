@@ -18,4 +18,5 @@
 7. Balanced Parentheses Problem
 8. Merge two sorted lists | Merge two sorted linked lists
 9. Merge k sorted lists 
+10. Remove duplicates from integer list.
 
