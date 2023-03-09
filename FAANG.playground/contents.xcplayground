@@ -11,5 +11,7 @@
         <page name='MergeTwoSortedLists'/>
         <page name='MergeKSortedLists'/>
         <page name='RemoveDuplicatesFromArray'/>
+        <page name='RomanToIntegerConversion'/>
+        <page name='LongestCommonSubstringInList'/>
     </pages>
 </playground>
