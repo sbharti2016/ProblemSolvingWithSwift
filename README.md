@@ -1,4 +1,4 @@
-# Following repository contains mostly asked questions in FAANG. 
+# Following repository contains frequently asked questions in FAANG. 
 1. Longest unique substring in a string
 2. Two sum problem.
 3. Find longest Palindrome in a string
@@ -21,3 +21,4 @@
 10. Remove duplicates from integer list.
 11. Roman to Integer Conversion
 12. Longest Common Prefix in a String's list
+13. Find needle in haystack string problem
