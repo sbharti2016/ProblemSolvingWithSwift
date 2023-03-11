@@ -22,3 +22,4 @@
 11. Roman to Integer Conversion
 12. Longest Common Prefix in a String's list
 13. Find needle in haystack string problem
+14. Remove given int value from list
