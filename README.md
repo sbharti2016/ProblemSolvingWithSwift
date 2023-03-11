@@ -14,7 +14,7 @@
     ⚪️ Delete Data\
     ⚪️ First position data\
     ⚪️ Last position data\
-    ⚪️ Reverse Data\
+    ⚪️ Reverse Data
 7. Balanced Parentheses Problem
 8. Merge two sorted lists | Merge two sorted linked lists
 9. Merge k sorted lists 
