@@ -5,8 +5,8 @@
 4. Container With Most Water 
 5. Three Sum Problem (Using Merge Sort)
 6. Single Header Linked list with below operations
-    ⚪️ Insert
-    ⚪️ Display
+    ⚪️ Insert\
+    ⚪️ Display\
     ⚪️ Search
     ⚪️ Insert before given data
     ⚪️ Insert after given data
