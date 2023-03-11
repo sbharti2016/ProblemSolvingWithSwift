@@ -14,5 +14,6 @@
         <page name='RomanToIntegerConversion'/>
         <page name='LongestCommonSubstringInList'/>
         <page name='FirstNeedleIndexInHaystackString'/>
+        <page name='RemoveGivenIntegerValueFromList'/>
     </pages>
 </playground>
