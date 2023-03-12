@@ -15,5 +15,6 @@
         <page name='LongestCommonSubstringInList'/>
         <page name='FirstNeedleIndexInHaystackString'/>
         <page name='RemoveGivenIntegerValueFromList'/>
+        <page name='SearchInsertPosition'/>
     </pages>
 </playground>
