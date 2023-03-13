@@ -16,5 +16,6 @@
         <page name='FirstNeedleIndexInHaystackString'/>
         <page name='RemoveGivenIntegerValueFromList'/>
         <page name='SearchInsertPosition'/>
+        <page name='LengthOfLastWord'/>
     </pages>
 </playground>
