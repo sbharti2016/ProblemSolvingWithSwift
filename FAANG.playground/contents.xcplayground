@@ -17,5 +17,6 @@
         <page name='RemoveGivenIntegerValueFromList'/>
         <page name='SearchInsertPosition'/>
         <page name='LengthOfLastWord'/>
+        <page name='PlusOneProblem'/>
     </pages>
 </playground>
