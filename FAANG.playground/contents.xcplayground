@@ -19,5 +19,6 @@
         <page name='LengthOfLastWord'/>
         <page name='PlusOneProblem'/>
         <page name='SumOfTwoBinaryStrings'/>
+        <page name='SquareRootProblem'/>
     </pages>
 </playground>
