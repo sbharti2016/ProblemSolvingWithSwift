@@ -26,3 +26,4 @@
 15. Search insert position in sorted list in log(n) run time complexity.
 16. Find length of the last word in a given string
 17. Plus one problem in an integer list
+18. Addition of two binary numbers
