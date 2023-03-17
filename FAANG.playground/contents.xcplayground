@@ -18,5 +18,6 @@
         <page name='SearchInsertPosition'/>
         <page name='LengthOfLastWord'/>
         <page name='PlusOneProblem'/>
+        <page name='SumOfTwoBinaryStrings'/>
     </pages>
 </playground>
