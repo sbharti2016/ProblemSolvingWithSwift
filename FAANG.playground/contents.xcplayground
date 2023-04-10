@@ -20,5 +20,6 @@
         <page name='PlusOneProblem'/>
         <page name='SumOfTwoBinaryStrings'/>
         <page name='SquareRootProblem'/>
+        <page name='StairsProblem'/>
     </pages>
 </playground>

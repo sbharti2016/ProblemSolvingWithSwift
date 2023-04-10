@@ -4,12 +4,26 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>FAANG (Playground).xcscheme</key>
+		<key>FAANG (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>FAANG (Playground) 2.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>2</integer>
+		</dict>
+		<key>FAANG (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
 		</dict>
 		<key>Longest1UniqueSubString (Playground) 1.xcscheme</key>
 		<dict>
