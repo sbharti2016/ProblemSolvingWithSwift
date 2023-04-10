@@ -29,3 +29,4 @@
 17. Plus one problem in an integer list
 18. Addition of two binary numbers
 19. Square root of a number to nearest integer
+20. Climbing stairs problem. 
